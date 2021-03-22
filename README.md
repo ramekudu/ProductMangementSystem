@@ -1,4 +1,4 @@
-# Enterprise library management system.
+# Product  management system.
 
 #### This is a spring boot microservices project.
 
